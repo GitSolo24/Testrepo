@@ -1,51 +1,54 @@
-# Movieflix
+# Twitter - Part I
 
-Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
+This is a basic twitter app to read your tweets.
 
-📝 `NOTE - PASTE PART 2 SNIPPET HERE:` Paste the README template for part 2 of this assignment here at the top. This will show a history of your development process, which users stories you completed and how your app looked and functioned at each step. (Updated)
+Time spent: **5# Twitter - Part I
 
-## Movieflix Part 2
+This is a basic twitter app to read your tweets.
 
-### User Stories
+Time spent: **X** hours spent in total
 
-#### REQUIRED (10pts)
-- [ ] (5pts) User can tap a cell to see more details about a particular movie.
-- [ ] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
+## User Stories
 
-#### BONUS
-- [ ] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
-- [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
+The following **required** functionality is completed:
 
-### App Walkthrough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, https://i.imgur.com/MHggWmq.gif. Make sure the gif actually renders and animates when viewing this README. 
+- [ ] User sees app icon in home screen and styled launch screen. (1pt)
+- [ ] User can log in. (1pt)
+- [ ] User can log out. (1pt)
+- [ ] User stays logged in across restarts. (1pt)
+- [ ] User can view tweets with the user profile picture, username, and tweet text. (6pts)
 
-<img src="https://i.imgur.com/MHggWmq.gif" width=250><br>
+The following **bonus** features are implemented:
 
-### Notes
-Describe any challenges encountered while building the app.
+- [ ] User can pull to refresh. (1pt)
+- [ ] User can load past tweets infinitely. (2pts)
 
----
+## Video Walkthrough
 
-## Movieflix Part 1
+Here's a walkthrough of implemented user stories:
 
-### User Stories
-`TODO://` In the **User Stories section below**, add an `x` in the `-[ ]` like this `- [x]` for any user story you complete. 
+<img src='https://i.imgur.com/XSCSdA8.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-#### REQUIRED (10pts)
-- [ ] (2pts) User sees an app icon on the home screen and a styled launch screen.
-- [ ] (5pts) User can view and scroll through a list of movies now playing in theaters.
-- [ ] (3pts) User can view the movie poster image for each movie.
 
-#### BONUS
-- [ ] (2pt) User can view the app on various device sizes and orientations.
-- [ ] (1pt) Run your app on a real device.
+** hours spent in total
 
-### App Walkthrough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually render![]
-s and animates when viewing this README. 
-<img src="https://i.imgur.com/AxAlNaJ.gif" width=250><br>
+## User Stories
 
-### Notes
-Describe any challenges encountered while building the app.
-Difficulty installing cocoapods. 
+The following **required** functionality is completed:
 
+- [ ] User sees app icon in home screen and styled launch screen. (1pt)
+- [ ] User can log in. (1pt)
+- [ ] User can log out. (1pt)
+- [ ] User stays logged in across restarts. (1pt)
+- [ ] User can view tweets with the user profile picture, username, and tweet text. (6pts)
+
+The following **bonus** features are implemented:
+
+- [ ] User can pull to refresh. (1pt)
+- [ ] User can load past tweets infinitely. (2pts)
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='https://i.imgur.com/XSCSdA8.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
