@@ -6,7 +6,7 @@ Time spent: **5# Twitter - Part I
 
 This is a basic twitter app to read your tweets.
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## User Stories
 
@@ -27,12 +27,13 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='![](https://i.imgur.com/z6ljl0P.gif)
+<img src='![](https://i.imgur.com/14Bi3B1.gif)
+
 ' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
-** hours spent in total
+*5* hours spent in total
 
 ## User Stories
 
@@ -53,6 +54,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='![](https://i.imgur.com/txZBgpX.gif)
+<img src='![](https://i.imgur.com/kM1hqm8.gif)
+
 ' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
