@@ -27,7 +27,9 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/XSCSdA8.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='![](https://i.imgur.com/z6ljl0P.gif)
+' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 
 ** hours spent in total
@@ -51,4 +53,6 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/XSCSdA8.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='![](https://i.imgur.com/txZBgpX.gif)
+' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
