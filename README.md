@@ -1,26 +1,75 @@
-📝 
-!![](https://i.imgur.com/jWyLvcj.gif)
+
+# Twitter - Part II
+
+This is a basic twitter app to view, compose, favorite, and retweet tweets.
+
+Time spent: **6** hours spent in total
+
+## User Stories
+
+The following **required** functionality is completed:
+
+- [ ] User can compose a tweet. (4pts)
+- [ ] User can favorite a tweet. (4pts)
+- [ ] User can retweet a tweet. (2pts)
+
+The following **bonus** features are implemented:
+
+- [ ] When composing a tweet, user sees a countdown for the number of characters remaining for the tweet (out of 280) (2pts)
+- [ ] User can view their profile in a profile tab. (3pts)
+- [ ] User sees embedded images in tweet if available. (3pts)
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='![](https://i.imgur.com/y8iCuoc.gif)
+' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Twitter - Part I
+This is a basic twitter app to read your tweets.
+
+Time spent: 6
+
+# Twitter - Part I
+
+This is a basic twitter app to read your tweets.
+
+Time spent: 5 hours spent in total
+
+User Stories
+The following required functionality is completed:
+
+ User sees app icon in home screen and styled launch screen. (1pt)
+ User can log in. (1pt)
+ User can log out. (1pt)
+ User stays logged in across restarts. (1pt)
+ User can view tweets with the user profile picture, username, and tweet text. (6pts)
+The following bonus features are implemented:
+
+ User can pull to refresh. (1pt)
+ User can load past tweets infinitely. (2pts)
+Video Walkthrough
+Here's a walkthrough of implemented user stories:
+![](https://i.imgur.com/T3jzCzV.gif)
 
 
 
+5 hours spent in total
 
+User Stories
+The following required functionality is completed:
 
-## Flix Part 2
+ User sees app icon in home screen and styled launch screen. (1pt)
+ User can log in. (1pt)
+ User can log out. (1pt)
+ User stays logged in across restarts. (1pt)
+ User can view tweets with the user profile picture, username, and tweet text. (6pts)
+The following bonus features are implemented:
 
-### User Stories
+ User can pull to refresh. (1pt)
+ User can load past tweets infinitely. (2pts)
+Video Walkthrough
+Here's a walkthrough of implemented user stories:
 
-#### REQUIRED (10pts)
-- [ ] (5pts) User can tap a cell to see more details about a particular movie.
-- [ ] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
-
-#### BONUS
-- [ ] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
-- [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
-
-### App Walkthrough GIF
-TODO:
-
-<img src="https://i.imgur.com/jWyLvcj.gif" width=250><br>
-
-### Notes
-Describe any challenges encountered while building the app.
+Video Walkthrough
+![](https://i.imgur.com/mhPMt4u.gif)
