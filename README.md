@@ -1,7 +1,6 @@
+# Parstagram - Part I
 
-# Twitter - Part II
-
-This is a basic twitter app to view, compose, favorite, and retweet tweets.
+This is an Instagram clone with a custom Parse backend that allows a user to post photos and view a global photos feed.
 
 Time spent: **6** hours spent in total
 
@@ -9,67 +8,22 @@ Time spent: **6** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] User can compose a tweet. (4pts)
-- [ ] User can favorite a tweet. (4pts)
-- [ ] User can retweet a tweet. (2pts)
+- [ ] User sees app icon in home screen and styled launch screen. (1pt)
+- [ ] User can sign up to create a new account. (1pt)
+- [ ] User can log in. (1pt)
+- [ ] User can take a photo, add a caption, and post it to the server. (3pt)
+- [ ] User can view the last 20 posts. (4pts)
 
 The following **bonus** features are implemented:
 
-- [ ] When composing a tweet, user sees a countdown for the number of characters remaining for the tweet (out of 280) (2pts)
-- [ ] User can view their profile in a profile tab. (3pts)
-- [ ] User sees embedded images in tweet if available. (3pts)
+- [ ] User can pull to refresh. (1pt)
+- [ ] User can load past posts infinitely. (2pts)
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='![](https://i.imgur.com/y8iCuoc.gif)
-' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-Twitter - Part I
-This is a basic twitter app to read your tweets.
-
-Time spent: 6
-
-# Twitter - Part I
-
-This is a basic twitter app to read your tweets.
-
-Time spent: 5 hours spent in total
-
-User Stories
-The following required functionality is completed:
-
- User sees app icon in home screen and styled launch screen. (1pt)
- User can log in. (1pt)
- User can log out. (1pt)
- User stays logged in across restarts. (1pt)
- User can view tweets with the user profile picture, username, and tweet text. (6pts)
-The following bonus features are implemented:
-
- User can pull to refresh. (1pt)
- User can load past tweets infinitely. (2pts)
-Video Walkthrough
-Here's a walkthrough of implemented user stories:
-![](https://i.imgur.com/T3jzCzV.gif)
+<img src='https://i.imgur.com/chzO7zv.gif'  title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
-5 hours spent in total
-
-User Stories
-The following required functionality is completed:
-
- User sees app icon in home screen and styled launch screen. (1pt)
- User can log in. (1pt)
- User can log out. (1pt)
- User stays logged in across restarts. (1pt)
- User can view tweets with the user profile picture, username, and tweet text. (6pts)
-The following bonus features are implemented:
-
- User can pull to refresh. (1pt)
- User can load past tweets infinitely. (2pts)
-Video Walkthrough
-Here's a walkthrough of implemented user stories:
-
-Video Walkthrough
-![](https://i.imgur.com/mhPMt4u.gif)
